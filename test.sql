@@ -1,0 +1,7 @@
+CREATE TABLE roles (
+	id_usuario INT AUTO_INCREMENT PRIMARY KEY,
+    Bronce VARCHAR(50) NOT NULL,
+    Plata VARCHAR(50) NOT NULL,
+    Oro VARCHAR(50) NOT NULL,
+    Platino VARCHAR(50) NOT NULL
+)
